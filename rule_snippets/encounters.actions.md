@@ -6,9 +6,9 @@ Encounters, Settings
 
 ## RULE
 
-_Play X_
-_Discard Peril_
-_Rest_
-_Rest 2_
-_Gain Token_
-_Sort Treasure_
+* Play X
+* Discard Peril
+* Rest
+* Rest 2
+* Gain Token
+* Sort Treasure
