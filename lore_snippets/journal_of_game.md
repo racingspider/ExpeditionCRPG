@@ -1,4 +1,4 @@
-These are notes I wrote down as I went through a play-session. I didn't record actual card plays (and probably should have), but instead took a light narrative approach.
+# These are notes I wrote down as I went through a play-session. I didn't record actual card plays (and probably should have), but instead took a light narrative approach.
 
 We decided not to cross the river (obstacle) at The Long Graveyard, and ran into a teeming mass of horrific creatures as we tried to find another way around. No one escaped without injury.
 
