@@ -1,0 +1,19 @@
+Jade TTS Decks
+
+Lots of decks. Most of them aren't very full, but here's the counts:
+
+Decks				CARDS		SINGLE BACK?
+Attributes:			27			no
+Bosses: 			1   		no
+Boss Encounters: 	4 			no
+Characters:			13 			yes
+Core Play Cards:	54 			no
+Encounters:			38 			no
+Perils:				25 			yes
+Settings:			9 			yes
+Tokens:				51 			no
+
+All of these decks are 10x7 when you import them into TTS.
+Settings are the weakest deck right now (some do not have actions, etc.)
+
+Single Back means they share the same image for the reverse side.
