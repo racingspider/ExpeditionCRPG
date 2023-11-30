@@ -1,4 +1,6 @@
 *.pdn
 *.odt
+*.odt#
 *.odp
 *.odp#
+*obsidian*
