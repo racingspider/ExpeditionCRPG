@@ -1,0 +1,1 @@
+Wandering aimlessly, these ruinous and contorted creatures haunt the silent places of the world. The wicked residue of ancient magic exudes from their misshapen forms. A touch from one of these hideous, shambling aberrations causes maladies that can last for weeks.
