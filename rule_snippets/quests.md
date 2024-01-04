@@ -17,6 +17,7 @@ The Living Ward
 Play <iicon><tokenMagic/><tokenMagic/><tokenLore/><tokenLore/></iicon> to defeat <bosshighlight>Living Ward </bosshighlight>. For each <tokenMagic/> and <tokenLore/> you cannot play, take one SHOCK and one INJURY.
 
 
+
 ### Yicht
 * 5 boss cards
 1. Unnatural Agility, action/navigate taboo, 2x Injury: magic fight cunning, 2x Shock: knowledge, knowledge, cunning
@@ -35,11 +36,11 @@ Any "tower" encounter allows the team to grab an artifact. During this quest, ON
 4. 
 
 ### Library Guardian
-* 3 Boss Cards
+* 4 Boss Cards
 1. Sweeping Tentacles - Each character without an <iicon><action156/> & <navigate156/></iicon> in hand, takes an Ensnared Peril.
 2. Exploding Ward - 3x magic: 2xinjury, 2x lore 1x action: incapacitated
 3. Savage Rush - 3x fight: 2xinjury, 2x fight 1x navigate: 2xshock
-
+4. Wailing Gaze - 3x cunning: 2xdespair, 2x action 1x navigate: doom
 
 ### The Living Ward
 * 4 Boss Cards
@@ -56,6 +57,8 @@ Windswept Plataeu
 
 
 _Yicht_
+Yicht comes in the yagishamot expansion
+
 
 -- Where is Yicht?
 Settings
