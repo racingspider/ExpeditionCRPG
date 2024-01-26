@@ -1,7 +1,6 @@
 # Boss Encounters
 
-On some encounter cards, there is a crown instead of the typical overland/interior encounter symbol. This means a particularly tough encounter is to be defeated. These elite encounters typically come two to a pack, each with 4 sub-encounters.
-The main card will tell how it is defeated.
+On some encounter cards, there is a tower instead of the typical overland/interior encounter symbol. This means a particularly tough encounter is to be defeated. 
 
 Examples
 

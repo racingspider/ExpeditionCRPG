@@ -123,10 +123,41 @@ Wild Lands
 	The Long Graveyard - setting
 	The Warded Forest - setting
 	What is this Place - setting
-	Some Wild Land Encounter with internal encounts (4)
+	Frightful Maw - setting
 
 
-# Expansion Settings
+## Start Locations (2)
+Bol Herata
+- market
+	any 3 same treasure: magic token, lore token
+	2x gem pendant: any unguent/potion
+	1 treasure: any other token
+- training
+	expensive: gain a playcard (up to handsize maximum)
+	expensive: advance a level - only handsize and token types are awarded, additional attributes must be bought?
+	average: gain spirit?
+	average: gain mind?
+	cheap: gain body?
+
+
+Esa Avte
+- market:
+	one of each: action token, cunning token, luxury provisions
+	2x tablet: lore token, magic token
+	1 treasure: any other token
+
+- training
+	expensive: gain spirit
+	expensive: advance level
+	average: gain playcard
+	average: gain body
+	cheap:	gain mind
+
+
+
+# Expansions
+## Tales of Yicht and other Malformed Oddities
+
 Gorrik Bir 	- + quest
 	Gorrik Bir - destination
 	Abandonded Mine - setting
@@ -150,16 +181,29 @@ Yagishamot - + quest
 	The Long Dark - setting
 	Yagishamot Plain - setting
 
-Bel Za Luom	- quest
-
-The Filth Folk
 
 
+# Settings to add
+## Specials
+- goat path: 1 overland encounter
+- hidden temple: 1 interior encounter
+- twisted caverns: 2 interior encounters + some kind of Action + Navigation cost between encounters
+## Commons (these all have one action to allow gaining prestige)
+- Rolling Plains: Action- Nav:Prestige, overland, overland, tower, overland
+- Silent Settlement: Action- Lor:Prestige, overland, interior, overland
+- Abandoned Towers: Action- Mag:Prestige, interior, overland, interior
+- Sprawling Ruins: Action- Fgt:Prestige, interior, interior, interior
+- Buried Corridors: Action- Cun:Prestige, interior, tower, interior
+## Commons 2 (these all have a tower and a happy rest!)
+- Tranquil Citadel: interior, tower, rest, interior
+- Forest: overland, tower, rest, overland
+- Old Village: interior, tower, rest, overland
+- Decrepit Walls: overland, tower, rest, interior
 
-# Core Settings
 
 
-# Setting 12 Card Expansions
+
+# Setting 12 Card Expansion
 _The Fluff of the World_
 Generic Lands, these should all be 1,2,1 (interior, outdoor, interior OR outdoor, interior, outdoor AND 1,1,rest,1 and 2,2,rest,2)
 ## Settings (6)
@@ -170,34 +214,9 @@ Generic Lands, these should all be 1,2,1 (interior, outdoor, interior OR outdoor
 	Ancient Ruins, 3x interior
 	Caverns, 3x interior
 	
-## Start Locations (2)
-Bol Herata
-Prepare:
-- market
-	any 3 same treasure: magic token, lore token
-	2x gem pendant: any unguent/potion
-	1 treasure: any other token
-- training
-	expensive: gain a playcard (up to handsize maximum)
-	expensive: advance a level - only handsize and token types are awarded, additional attributes must be bought?
-	average: gain spirit?
-	average: gain mind?
-	cheap: gain body?
+## Start Locations
 
+## Quests
 
+## Encounters
 
-Esa Avte
-- market:
-	one of each: action token, cunning token, luxury provisions
-	2x tablet: lore token, magic token
-	1 treasure: any other token
-
-- training
-	expensive: gain spirit
-	expensive: advance level
-	average: gain playcard
-	average: gain body
-	cheap:	gain mind
-
-
-## Quests (2)
