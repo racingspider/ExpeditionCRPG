@@ -2,7 +2,7 @@
 
 ## Have:
 * Actions
-* Encounter types
+* Encounter types (way points)
 * Distance value
 * Quest resources (ruin, moon, waypoint)
 * Special rules
