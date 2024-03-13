@@ -41,4 +41,7 @@ Turn structure, game order
 
 
 #Gameplay
-Turn sequence, type of cards encounter PER PHASE (Home Turn, Adventure, Setting, Encounter)
+Turn sequence, type of cards encounter PER PHASE (Home Turn, Adventure, Setting, Encounter).
+
+Travel To keyword - it means you set the destination card aside, as well as any settings with a matching name.
+Travel Deck
