@@ -43,5 +43,16 @@ Turn structure, game order
 #Gameplay
 Turn sequence, type of cards encounter PER PHASE (Home Turn, Adventure, Setting, Encounter).
 
-Travel To keyword - it means you set the destination card aside, as well as any settings with a matching name.
-Travel Deck
+_Travel To_ means you set the destination card aside, as well as any settings with a matching name.
+
+_Travel Deck_
+The Travel Deck is all other Setting cards, shuffled and ready to be traveled through on the way to the destination.
+
+#Expansions
+Archetypes - playcards + characters + artifacts
+
+Tower Cards - 30 cards in 4 decks marked 1-4, instead of picking an overland or interior encounter when you arrive at a non-quest way point, draw the next Tower Card. You would first shuffle each set together to make a single pile. Once a crew has completed a Tower Card, they do not repeat it, but another play through with new characters would get a shuffled set again.
+
+Tales of Yicht and Other Malformed Oddities
+
+5 Room Dungeon Tile Set
